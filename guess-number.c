@@ -34,7 +34,8 @@ while (low<=high&& attempts<7){
    if(feedback == 'c') break; 
    if(feedback!='c');
    
-}printf("Oh noo i couldn't guess in 7 attempts :( ");
+}
+   
 return 0;
 
 }
